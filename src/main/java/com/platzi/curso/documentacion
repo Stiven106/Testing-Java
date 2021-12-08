@@ -1,0 +1,30 @@
+
+
+                Beneficios de los TESTS
+    1. Comprobar que nuestra aplicacion este realizando los requerimientos que debe ser.
+    2.  Nos proporciona documentacion y ejemplos mediante el test.
+    3. Ayuda en el diseno (TDD)
+    4. Confianza al desarrollar, puesto que sabemos que lo que estamos desarrollando esta funcionando
+    5. Confianza para refactorizar (evitando deuda tecnica) 
+    6. Herramienta que te da valor a tu CV!
+
+                Puntos fuertes de los TESTS
+    1. Son automaticos.
+    2. Son rapidos
+    3. Son fiables.
+    4. Incrementales
+        
+        Puntos no tan fuertes de los TESTS
+    1. Tiempo de desarrollo.
+    2. No siempre son viables, esto dependera de la aplicacion que se este desarrollando. 
+
+                Tipos de TESTS
+    1. Unitarios: Prueban una clase o funcion concreta que este aislada de nuestra aplicacion.
+    2. Integracion: Estos comprueban como se conectan diferentes componentes de nuestra aplicacion: DB, API externa o modelos de nuestra aplicacion.
+    3. Funcionales: Prueban una funcionalidad de nuestro sistema, pueden estar implicadas varias clases en esta funcionalidad, pero no prueban todo el sistema.
+    4. Inicio a fin (end to end): Es parecido al anterior, prueba todo el recorrido de una accion, por ejemplo: el registro de un usuario en nuestra aplicacion o cuando un usuario compra un producto.
+    5. Estres: Se utiliza cuando la aplicacion va a estar cargada de grandes cantidades de usuarios y prueba que el sistema si podra aguantar con ello.
+
+
+
+
